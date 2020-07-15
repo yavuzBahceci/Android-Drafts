@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hilt-Example-MVI_MVVM-Repository</string>
+    <string name="hola">HOLAA!!!!</string>
 </resources>
