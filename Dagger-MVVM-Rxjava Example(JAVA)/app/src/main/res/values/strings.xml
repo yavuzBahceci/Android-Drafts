@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dagger-mvvm-rxjava</string>
+    <string name="User_id">User id</string>
+    <string name="Login">Login</string>
+    <string name="menu_logout_item_name">logout</string>
+    <string name="nav_menu_profile_text">Profile</string>
+    <string name="nav_menu_posts_text">Posts</string>
+</resources>
